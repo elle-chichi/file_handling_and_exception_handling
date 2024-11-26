@@ -1,0 +1,2 @@
+This is my first File read and write challenge.
+See the outcome from it here.
